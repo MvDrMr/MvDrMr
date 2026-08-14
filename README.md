@@ -2,7 +2,7 @@
   <img 
     src="./assets/github-banner.webp"
     alt="Marvin Rodas - Full Stack Developer"
-    width="100%"
+    width="55%"
   />
 </p>
 
