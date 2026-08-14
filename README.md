@@ -1,21 +1,20 @@
-<table>
-  <tr>
-    <td width="55%" align="center">
-      <img src="./assets/github-banner.webp" alt="Marvin Rodas" width="280"/>
-    </td>
-    <td width="65%" valign="top">
+<table border="0"> 
+<tr> 
+<td width="55%" align="center"> 
+<img src="./assets/github-banner.webp" alt="Marvin Rodas" width="280"/> 
+</td> 
 
-## **Full Stack Developer**
+<td width="65%" valign="top"> 
 
-I believe every developer is also a lifelong learner.
-For me, books are a way to explore new ideas,  
-while code is a way to turn those ideas into reality.
-I enjoy solving problems, learning new technologies,  
-and building things that challenge me to grow.
----
-### **Currently working with:**  
+## **Full Stack Developer** 
+
+I believe every developer is also a lifelong learner. For me, books are a way to explore new ideas, while code is a way to turn those ideas into reality. I enjoy solving problems, learning new technologies, and building things that challenge me to grow. 
+--- 
+
+### **Currently working with:** 
+
 React • JavaScript • Node.js • C# • .NET
-  </tr>
+</tr> 
 </table>
 
 <hr/>
