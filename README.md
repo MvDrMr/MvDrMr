@@ -1,7 +1,9 @@
 <p align="center">
-  <video autoplay loop muted>
-  <source src="./assets/github-banner.mp4" type="video/mp4">
-</video>
+  <img 
+    src="./assets/github-banner.webp"
+    alt="Marvin Rodas"
+    width="100%"
+  />
 </p>
 
 <table>
