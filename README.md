@@ -1,10 +1,10 @@
-<table border="0"> 
+<table style="border: none;">
 <tr> 
 <td width="55%" align="center"> 
 <img src="./assets/github-banner.webp" alt="Marvin Rodas" width="280"/> 
 </td> 
 
-<td width="65%" valign="top"> 
+<td width="45%" valign="top"> 
 
 ## **Full Stack Developer** 
 
@@ -24,25 +24,25 @@ React • JavaScript • Node.js • C# • .NET
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,cs,html,css" />
 </p>
-<hr/>
+
 <h3 align="center">Frontend</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
 </p>
-<hr/>
+
 <h3 align="center">Backend</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,dotnet" />
 </p>
-<hr/>
+
 <h3 align="center">Databases</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
-<hr/>
+
 <h3 align="center">Tools & DevOps</h3>
 
 <p align="center">
