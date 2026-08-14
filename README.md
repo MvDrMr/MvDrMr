@@ -1,10 +1,10 @@
-<table style="border: none;">
-<tr> 
-<td width="55%" align="center"> 
-<img src="./assets/github-banner.webp" alt="Marvin Rodas" width="280"/> 
-</td> 
-
-<td width="45%" valign="top"> 
+<p align="center">
+  <img 
+    src="./assets/github-banner.webp"
+    alt="Marvin Rodas - Full Stack Developer"
+    width="100%"
+  />
+</p>
 
 ## **Full Stack Developer** 
 
@@ -14,8 +14,6 @@ I believe every developer is also a lifelong learner. For me, books are a way to
 ### **Currently working with:** 
 
 React • JavaScript • Node.js • C# • .NET
-</tr> 
-</table>
 
 <hr/>
 
