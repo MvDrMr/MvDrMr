@@ -1,12 +1,4 @@
-<!-- <p align="center">
-  <img 
-    src="./assets/github-banner.webp"
-    alt="Marvin Rodas - Full Stack Developer"
-    width="55%"
-  />
-</p> -->
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mona+Sans&weight=900&size=28&pause=1000&color=31F724&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Marvin+Rodas;Full+Stack+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mona+Sans&weight=900&size=28&pause=1000&color=31F724&vCenter=true&width=435&lines=Hi%2C+I'm+Marvin+Rodas;Full+Stack+Developer" alt="Typing SVG" /></a>
 
 I believe every developer is also a lifelong learner. For me, books are a way to explore new ideas, while code is a way to turn those ideas into reality. I enjoy solving problems, learning new technologies, and building things that challenge me to grow. 
 
